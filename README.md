@@ -17,5 +17,6 @@ Projeto desenvolvido com **HTML5, CSS3 e JavaScript** que realiza contagem numé
 
 ## 📸 Preview
 
+https://github.com/mariah828/contador/raw/main/preview.contador.png
 
 ---
